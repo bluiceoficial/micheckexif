@@ -2,10 +2,6 @@
 
 MiCheckExif checks and removes data from files through exiftool.
 
-## Information
-
-- [Page MiCheckExif](https://www.bluice.com.br/bluiceoficial/micheckexif.html)
-
 ### Links to Third-Party Resources Used
 
 - https://gambaswiki.org/website/en/main.html
