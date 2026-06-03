@@ -4,7 +4,27 @@ MiCheckExif checks and removes data from files through exiftool.
 
 ## Information
 
-- [Page MiCheckExif](https://www.mugomes.com.br/2025/07/micheckexif.html)
+- [Page MiCheckExif](https://www.bluice.com.br/bluiceoficial/micheckexif.html)
+
+### Links to Third-Party Resources Used
+
+- https://gambaswiki.org/website/en/main.html
+- https://exiftool.org
+
+## 🖥 System Requirements
+
+### Architecture
+
+* x64 (64-bit)
+
+### Linux
+
+* Ubuntu 24.04 or newer
+
+## Support
+
+* GitHub Sponsors: [https://github.com/sponsors/bluiceoficial/](https://github.com/sponsors/bluiceoficial/)
+* More options: [https://www.bluice.com.br/apoie/](https://www.bluice.com.br/apoie/)
 
 ## License
 

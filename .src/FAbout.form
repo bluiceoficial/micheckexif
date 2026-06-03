@@ -26,7 +26,7 @@
     MoveScaled(1,19.625,66,4)
     #Translate = False
     Alignment = Align.TopLeft
-    Text = "Copyright (C) 2025 Murilo Gomes Julio"
+    Text = "Copyright (C) 2025-2026 Murilo Gomes Julio"
   }
   { Label3 Label
     MoveScaled(1,13,66,4)
@@ -42,7 +42,7 @@
   { URLLabel1 URLLabel
     MoveScaled(6,15.625,42,4)
     #Translate = False
-    Text = "www.mugomes.com.br"
+    Text = "www.bluice.com.br"
   }
   { Label6 Label
     MoveScaled(1,22.625,30,5)

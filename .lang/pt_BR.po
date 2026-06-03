@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: micheckexif 3.19.0\n"
-"PO-Revision-Date: 2025-07-14 17:41 UTC\n"
-"Last-Translator: Murilo Gomes <mugomesoficial@gmail.com>\n"
+"Project-Id-Version: micheckexif 3.21.6\n"
+"PO-Revision-Date: 2026-06-03 19:02 UTC\n"
+"Last-Translator: bluice <bluice@mi-desktop>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,18 +50,13 @@ msgid "Getting information..."
 msgstr "Obtendo informações..."
 
 # gb-ignore
-#: .project:1
-msgid "MICheckEXIF"
-msgstr ""
-
-# gb-ignore
-#: FMain.form:24
+#: .project:1 FMain.form:24
 msgid "MiCheckEXIF"
 msgstr ""
 
 # gb-ignore
 #: .project:2
-msgid "MICheckEXIF checks and removes data from files through exiftool.\nThe MICheckEXIF is under license GPL-2.0-only"
+msgid "MiCheckEXIF checks and removes data from files through exiftool.\nThe MiCheckEXIF is under license GPL-2.0-only"
 msgstr ""
 
 #: FMain.class:92
@@ -97,8 +92,8 @@ msgid "Select File"
 msgstr "Selecione o arquivo"
 
 #: FMain.form:39
-msgid "Subscribers"
-msgstr "Assinantes"
+msgid "Support"
+msgstr "Apoie"
 
 #: FMain.class:94
 msgid "Value"
