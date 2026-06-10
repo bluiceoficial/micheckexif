@@ -1,5 +1,8 @@
 # MiCheckExif
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/micheckexif
+
 MiCheckExif checks and removes data from files through exiftool.
 
 ### Links to Third-Party Resources Used
